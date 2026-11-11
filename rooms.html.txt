@@ -1,0 +1,82 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Rooms & Suites | Hotel Fortune Suites</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+
+<header class="navbar">
+<a class="logo" href="index.html"><span class="logo-icon">F</span><span>FORTUNE SUITES<small>HOTEL · PRAYAGRAJ</small></span></a>
+<button class="menu-btn">☰</button>
+<nav class="nav-links">
+<a href="index.html">Home</a><a href="rooms.html">Rooms</a><a href="facilities.html">Facilities</a><a href="gallery.html">Gallery</a><a href="about.html">About</a><a href="contact.html">Contact</a>
+</nav>
+<a class="btn nav-btn" href="booking.html">Book Now ↗</a>
+</header>
+
+
+<section class="page-hero">
+<div class="container reveal">
+<span class="eyebrow">YOUR SPACE TO UNWIND</span>
+<h1>Rooms & Suites</h1>
+<p>Explore the room experience and contact the hotel directly for current room categories, rates, photographs and availability.</p>
+</div>
+</section>
+
+
+<section class="section">
+<div class="container">
+<div class="cards">
+
+
+<article class="card reveal">
+<img src="https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=900&q=80" alt="Hotel room">
+<div class="card-body">
+<span class="tag">ROOM ENQUIRY</span>
+<h3>Comfortable Room</h3>
+<p>Ask our team about suitable room options for your dates and number of guests.</p>
+<a class="btn" href="#" data-wa>Enquire Now ↗</a>
+</div>
+</article>
+
+
+<article class="card reveal delay">
+<img src="https://images.unsplash.com/photo-1616594039964-ae9021a400a0?auto=format&fit=crop&w=900&q=80" alt="Suite">
+<div class="card-body">
+<span class="tag">ROOM ENQUIRY</span>
+<h3>Suite Enquiry</h3>
+<p>Contact the hotel to confirm suite options, inclusions and applicable tariffs.</p>
+<a class="btn" href="#" data-wa>Ask About Suites ↗</a>
+</div>
+</article>
+
+
+<article class="card reveal delay2">
+<img src="https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=900&q=80" alt="Family room">
+<div class="card-body">
+<span class="tag">FAMILY / GROUP</span>
+<h3>Family Stay</h3>
+<p>Share your group size and requirements so the team can guide you.</p>
+<a class="btn" href="#" data-wa>Discuss Your Stay ↗</a>
+</div>
+</article>
+
+
+</div>
+<p class="notice">Room images are illustrative stock photographs, not verified photographs of Hotel Fortune Suites. Replace them with owner-approved property photographs before official publication.</p>
+<div class="actions"><a class="btn" href="booking.html">Send Booking Enquiry ↗</a></div>
+</div>
+</section>
+
+
+<footer id="footer"></footer>
+<script src="assets/app.js"></script>
+</body>
+</html>
+

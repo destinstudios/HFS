@@ -1,0 +1,74 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Contact | Hotel Fortune Suites</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+
+<header class="navbar">
+<a class="logo" href="index.html"><span class="logo-icon">F</span><span>FORTUNE SUITES<small>HOTEL · PRAYAGRAJ</small></span></a>
+<button class="menu-btn">☰</button>
+<nav class="nav-links">
+<a href="index.html">Home</a><a href="rooms.html">Rooms</a><a href="facilities.html">Facilities</a><a href="gallery.html">Gallery</a><a href="about.html">About</a><a href="contact.html">Contact</a>
+</nav>
+<a class="btn nav-btn" href="booking.html">Book Now ↗</a>
+</header>
+
+
+<section class="page-hero">
+<div class="container reveal">
+<span class="eyebrow">WE'RE HERE TO HELP</span>
+<h1>Contact & Location</h1>
+<p>Get in touch with Hotel Fortune Suites for room enquiries, directions and booking assistance.</p>
+</div>
+</section>
+
+
+<section class="section">
+<div class="container contact-grid">
+
+
+<div class="info-card reveal">
+<span class="eyebrow" style="color:#e4c99e">REACH US DIRECTLY</span>
+<h2>Let's connect.</h2>
+<p>For current rates, availability and hotel policies, please contact the team.</p>
+
+
+<div class="info-line">☎ &nbsp; <a data-phone href="#">+91 88402 26276</a></div>
+<div class="info-line">◉ &nbsp; <a data-wa href="#">WhatsApp the Hotel</a></div>
+<div class="info-line">⌖ &nbsp; Naini, Prayagraj, Uttar Pradesh</div>
+
+
+<div class="actions">
+<a class="btn btn-light" data-map href="#">Open Google Maps ↗</a>
+</div>
+</div>
+
+
+<div class="reveal delay">
+<iframe
+class="map-frame"
+title="Hotel Fortune Suites Location"
+src="https://www.google.com/maps?q=Hotel%20Fortune%20Suites%2C%20Naini%2C%20Prayagraj&output=embed"
+loading="lazy"
+referrerpolicy="no-referrer-when-downgrade">
+</iframe>
+<p class="notice">Use the Google Maps link for the hotel's precise location and navigation.</p>
+</div>
+
+
+</div>
+</section>
+
+
+<footer id="footer"></footer>
+<script src="assets/app.js"></script>
+</body>
+</html>
+
